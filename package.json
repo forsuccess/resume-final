@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "shaozhiyuan <632068012@qq.com>",
+  "author": "",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
