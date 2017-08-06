@@ -4,7 +4,7 @@
       <span class="logo">Resumer</span>
       <div class="actions">
         <div v-if="logined" class="userActions">
-          <span class="welcome">你好，{{user,username}}</span>
+          <span class="welcome">你好，{{user.username}}</span>
           <a class="button" href="#" @click.prevent="signOut">登出</a>
         </div>
         <div v-else class="userActions">
